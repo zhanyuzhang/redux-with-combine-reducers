@@ -1,4 +1,4 @@
-比 `simplest-redux ` 稍微吊一点简化版 `redux` ，支持 `combineReducers()`
+比 `simplest-redux ` 稍微吊一点的简化版 `redux` ，支持 `combineReducers()`
 
 启动demo示例
 
